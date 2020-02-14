@@ -23,11 +23,15 @@ be sure to grab enough green and a couple white gems, do a "g" or "w" in chat fo
 ```
 protect
 ```
-please try not to get tiamat's aoe on npc's
+please keep the enemies off the clerics
 ```
 heads
 ```
 start at black head, leave them at 4 bars of health unless we need less than 45 seconds to kill a single head
+```
+deaths
+```
+if you die, just release and mount up to get back in the fight faster. the group cannot afford anyone taking time off their job to get you up.
 ```
 
 # **Assault on Svardborg**
