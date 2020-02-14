@@ -9,3 +9,7 @@ so you wanna be sure that everyone knows what to do in any given group content.
 ### **you can triple click any word in the copy-paste line to select that whole line.**
 
 windows 10 has [this neat feature](https://www.google.com/search?q=windows+10+clipboard&tbm=vid) that allows you to save multiple copied lines of text and paste them when you feel like it, use <kbd>⊞win</kbd>+<kbd>v</kbd> to access it (windows 10 versions after the october 2018 update).
+
+<p align="left">
+<img src="https://user-images.githubusercontent.com/61057273/74569755-758d7d00-4f7b-11ea-9964-21c7f5eef596.png" alt="pasta"/>
+</p>
