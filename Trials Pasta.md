@@ -59,7 +59,7 @@ do not use aoe in the middle, bring cubes to corners before killing them.
 ```
 tethers
 ```
-make sure everyone is alive before killing the last tether.
+make sure everyone is alive before killing the last cord.
 ```
 baby
 ```
